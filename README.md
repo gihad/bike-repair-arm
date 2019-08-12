@@ -29,7 +29,7 @@ These are the minimal requirements I wanted to achieve
  - [3/4-in x 6-ft Foam Plumbing Tubular Pipe Insulation](https://www.lowes.com/pd/Frost-King-3-4-in-x-6-ft-Foam-Plumbing-Tubular-Pipe-Insulation/1060005)
  - Glue
  - Exacto knife
- - Access to a 3d printer
+ - Access to a 3d printer to print this model: https://www.thingiverse.com/thing:3806640
  
  ## Steps
  
