@@ -1,6 +1,6 @@
 # Bike Repair Arm
 
-This repo documents the creation of a bike repair arm (although it could be used for other things) that when not in use can be concealed and not space.
+This repo documents the creation of a bike repair arm (although it could be used for other things) that when not in use can be concealed and not occupy space.
 
 ## Here is an image of the complete arm
 
@@ -33,7 +33,7 @@ These are the minimal requirements I wanted to achieve
  
  ## Steps
  
- ### Mouning the Flange
+ ### Mounting the Flange
  
  When mounting the flange on the wall you must find and screw into a stud (or something solid depending on wall construction type) otherwise the leverage produced by the bike will be too much for the wall.
  
@@ -57,7 +57,7 @@ These are the minimal requirements I wanted to achieve
  
  ## Vise Jaws
  
- I needed to add some "jaws" to both sides of the vise. It needed to be soft so it doesn't scratch or bend the bike but also provide adaquate clamping force to keep the bike firm while working on it. After taking several measuraments with calipers I was ready to make the parts.
+ I needed to add some "jaws" to both sides of the vise. It needed to be soft so it doesn't scratch or bend the bike but also provide adequate clamping force to keep the bike firm while working on it. After taking several measurements with calipers I was ready to make the parts.
  
  ### 3d modeling and printing
  
