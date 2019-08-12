@@ -64,7 +64,7 @@ These are the minimal requirements I wanted to achieve
  Since I have a 3d printer I decided to 3d model the jaws in Fusion 360
  ![](images/Sharp-edges.JPG)
  
- After the 3d model was done I sliced it. It took about 8 hours to print. I choose to print with supports but not much were needed. Material is SUNLU PETG and printer is Prusa MK3S.
+ After the 3d model was done I sliced it. It took about 8 hours to print. I choose to print with supports but not much support was needed. Material is SUNLU PETG and printer is Prusa MK3S.
  ![](images/slicer.JPG)
  
  After it came out the fitting was pretty good, but there were some sharp edges
