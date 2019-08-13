@@ -101,5 +101,5 @@ These are the minimal requirements I wanted to achieve
  ![](images/standard-1.jpg)  |  ![](images/standard2.jpg)
 Seat | Angled
 ![](images/seat-post.jpg)  |  ![](images/angled.jpg)
-Inside |
-![](images/inside-space.jpg) |
+Inside | Clamp
+![](images/inside-space.jpg) | ![](images/assembled.jpg)
